@@ -1,1 +1,1 @@
-A simple recipe page made using html.
+This is a simple recipe page made using html.
