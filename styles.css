@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(102, 216, 79);
+    font-family: monospace, Helvetica, sans-serif;
+}
+ h1{
+    color: brown;
+ }
+
+ul li {
+    color: rgb(21, 37, 37);
+    font-family: monospace, "Times New Roman", sans-serif;
+    font-weight: 300;
+}
+
+#chapati{
+    background-color: red;
+}
