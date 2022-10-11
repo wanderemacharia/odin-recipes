@@ -2,21 +2,36 @@ body{
     background-color: rgb(102, 216, 79);
     font-family: monospace, Helvetica, sans-serif;
 }
+
+body h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
  h1{
     color: brown;
  }
 
 ul li {
     color: rgb(21, 37, 37);
-    font-family: monospace, "Times New Roman", sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: 300;
 }
 
+ol {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.steps{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 #chapati{
+    font-size: 22px;
     background-color: red;
 }
 
 #mandazi{
+    font-size: large;
     background-color: aliceblue;
 }
 
